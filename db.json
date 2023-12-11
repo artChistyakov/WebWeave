@@ -11,7 +11,15 @@
         "goal": "achieve the result"
         },
     {
-        "id": 2,
+            "id":2,
+            "name":"Nika",
+            "surname":"Vasylchenko",
+            "photo_url":"https://avatars.githubusercontent.com/u/149671469?v=4",
+            "balance":100000,
+            "goal": "achieve the result"
+        },
+    {
+        "id": 3,
         "name": "Yevhenii",
         "surname": "Trypolka",
         "photo url": "https://avatars.githubusercontent.com/u/126472864?v=4",
@@ -19,6 +27,5 @@
         "age": 98,
         "goal": "achieve the result"
     }
-]
+    ]
 }
-
