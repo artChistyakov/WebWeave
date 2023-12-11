@@ -33,6 +33,15 @@
         "balance": 4000,
         "age": 98,
         "goal": "achieve the result"
+    },
+    {
+        "id": 4,
+        "name": "Egor",
+        "surname": "Durnev",
+        "photo url": "https://avatars.githubusercontent.com/u/152200957?s=64&v=4",
+        "balance": 101010100,
+        "age": 2,
+        "goal": "achieve the result"  
     }
     ],
     "products": [
@@ -73,4 +82,8 @@
 }
 
 ```
-
+Our team:
+* Artem Chistyakov
+* Yevhenii Trypolka
+* Nika Vasylchenko
+* Egor Durnev
