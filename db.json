@@ -1,1 +1,12 @@
+{
+    "users":{
+        "id": 3,
+        "name": "Yevhenii",
+        "surname": "Trypolka",
+        "Photo": "https://avatars.githubusercontent.com/u/126472864?v=4",
+        "Balance": "4000 dollars",
+        "age": 98,
+        "Goal": "achieve the result"
+    }
 
+}
