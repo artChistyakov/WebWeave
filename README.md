@@ -1,6 +1,6 @@
 # This is our repository
 ## Our name is CodeCrafters
-![this is img](https://informationage-production.s3.amazonaws.com/uploads/2023/03/ChatGPT-programmers-scaled.jpg)
+![image](https://github.com/artChistyakov/WebWeave/assets/132196101/5b534e7c-d8a5-4d3a-a18c-0672e24d30ea )
 **We are programmers.**
 *There is Example of our code:*
 ```json
