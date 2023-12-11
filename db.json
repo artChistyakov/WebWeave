@@ -36,6 +36,22 @@
             "price": 92,
             "author_id": 1,
             "photo_url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Felektrovoz.com.ua%2Fsvitlodiodna-led-strichka-smd5050-60-ip65-germetichna-rgb-standart.html&psig=AOvVaw1R2qOr_j8EU9JpfS8sBOrs&ust=1702401148071000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND0nL7wh4MDFQAAAAAdAAAAABAJ"
+        },
+        {
+            "id":2,
+            "name": "Arduino nano",
+            "description": "Can make some project",
+            "price":200 ,
+            "author_id":2 ,
+            "photo_url":"https://images.prom.ua/2885660089_plata-arduino-nano.jpg"
+        },
+        {
+            "id":3,
+            "name": "Arduino",
+            "description": "A platform for creating electronics with your own hands",
+            "price":400 ,
+            "author_id": 3,
+            "photo_url":"https://store-usa.arduino.cc/cdn/shop/products/A000066_03.front_970c6014-61ab-4226-a20f-14cc6d8d682c_934x700.jpg?v=1629816078"
         }
     ]
 }
