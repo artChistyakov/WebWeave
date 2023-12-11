@@ -1,11 +1,24 @@
 {
+
     "users":[
         {
         "id": 1,
         "name": "Artem" ,
         "surname" : "Chistyakov" ,
         "photo url": "https://avatars.githubusercontent.com/u/132196101?v=4",
-        "balance": 100000
-        }
-    ]
+        "balance": 100000,
+        "age": 98,
+        "goal": "achieve the result"
+        },
+    {
+        "id": 2,
+        "name": "Yevhenii",
+        "surname": "Trypolka",
+        "photo url": "https://avatars.githubusercontent.com/u/126472864?v=4",
+        "balance": 4000,
+        "age": 98,
+        "goal": "achieve the result"
+    }
+]
 }
+
