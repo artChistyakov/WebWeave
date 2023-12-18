@@ -1,6 +1,7 @@
 # This is our repository
 ## Our name is CodeCrafters
-![image](https://github.com/artChistyakov/WebWeave/assets/132196101/5b534e7c-d8a5-4d3a-a18c-0672e24d30ea )
+<img width="260" alt="image" src="https://github.com/artChistyakov/WebWeave/assets/132196101/78e51db7-d908-4d41-adea-5d9b739bc77d">
+
 **We are programmers.**
 *There is Example of our code:*
 ```json
