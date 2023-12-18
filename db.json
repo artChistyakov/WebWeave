@@ -70,6 +70,14 @@
             "price": 98,
             "author_id": 4,
             "photo_url":"https://elektrovoz.com.ua/files/resized/products/1406_catalog0870641c9392f7fdeb77f4e6061b957b29495a70.600x800.jpg"
+        },
+        {
+            "id":5,
+            "name": "Servo",
+            "description": "automatic exact performer",
+            "price": 100,
+            "author_id":5 ,
+            "photo_url":"https://www.kiwi-electronics.com/image/cache/catalog/product/maiw84fd/Img0226-1920x1280.jpg"
         }
     ]
 
