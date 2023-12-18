@@ -73,7 +73,7 @@
         },
         {
             "id":5,
-            "name": "Sevo",
+            "name": "Servo",
             "description": "automatic exact performer",
             "price": 100,
             "author_id":5 ,
