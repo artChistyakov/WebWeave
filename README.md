@@ -1,6 +1,7 @@
 # This is our repository
-## Our name is readme
-![this is img](https://informationage-production.s3.amazonaws.com/uploads/2023/03/ChatGPT-programmers-scaled.jpg)
+## Our name is CodeCrafters
+<img width="260" alt="image" src="https://github.com/artChistyakov/WebWeave/assets/132196101/78e51db7-d908-4d41-adea-5d9b739bc77d">
+
 **We are programmers.**
 *There is Example of our code:*
 ```json
@@ -33,6 +34,15 @@
         "balance": 4000,
         "age": 98,
         "goal": "achieve the result"
+    },
+    {
+        "id": 4,
+        "name": "Egor",
+        "surname": "Durnev",
+        "photo url": "https://avatars.githubusercontent.com/u/152200957?s=64&v=4",
+        "balance": 101010100,
+        "age": 2,
+        "goal": "achieve the result"  
     }
     ],
     "products": [
@@ -73,4 +83,8 @@
 }
 
 ```
-
+Our team:
+* Artem Chistyakov
+* Yevhenii Trypolka
+* Nika Vasylchenko
+* Egor Durnev
