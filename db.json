@@ -44,7 +44,7 @@
             "name": "RGB",
             "description": "Can male color party.",
             "price": 92,
-            "author_id": 1,
+            "author_id": "1",
             "photo_url":"https://elektrovoz.com.ua/files/resized/products/1406_catalog0870641c9392f7fdeb77f4e6061b957b29495a70.600x800.jpg"
         },
         {
@@ -52,7 +52,7 @@
             "name": "Arduino nano",
             "description": "Can make some project",
             "price":200 ,
-            "author_id":2 ,
+            "author_id": "2",
             "photo_url":"https://images.prom.ua/2885660089_plata-arduino-nano.jpg"
         },
         {
@@ -60,7 +60,7 @@
             "name": "Arduino",
             "description": "A platform for creating electronics with your own hands",
             "price":400 ,
-            "author_id": 3,
+            "author_id": "3",
             "photo_url":"https://store-usa.arduino.cc/cdn/shop/products/A000066_03.front_970c6014-61ab-4226-a20f-14cc6d8d682c_934x700.jpg?v=1629816078"
         },
         {
@@ -68,7 +68,7 @@
             "name": "A-RGB",
             "description": "Can male full color party.",
             "price": 98,
-            "author_id": 4,
+            "author_id": "4",
             "photo_url":"https://elektrovoz.com.ua/files/resized/products/1406_catalog0870641c9392f7fdeb77f4e6061b957b29495a70.600x800.jpg"
         },
         {
